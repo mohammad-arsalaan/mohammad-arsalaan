@@ -34,6 +34,19 @@ Git | GitHub | Power BI | VS Code
 - Contribute to open-source 🌍  
 - Continuous skill development 📚  
 
+## 🛠 Skills
+- Python  
+- C  
+- HTML, CSS  
+- Git & GitHub  
+
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=mohammad-arsalaan&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-arsalaan)
+
+---
+
+⭐ Code. Learn. Build. Repeat.
