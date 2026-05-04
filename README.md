@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey 👋, I'M MOHAMMAD ARSALAAN
 
-<!--
-**mohammad-arsalaan/mohammad-arsalaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BCA Student | 🤖 AI-ML Specialist | 🚀 Passionate Coder | 📚 Lifelong Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+
+🎓 Pursuing BCA from IES University, Bhopal  
+🤖 Specialization in Artificial Intelligence & Machine Learning (AI/ML)  
+📊 Enthusiastic about Data Analytics and AI-based solutions  
+💡 Passionate about solving real-world problems using technology  
+🚀 Quick learner, always exploring new tools & technologies  
+🤝 Team-oriented mindset with focus on collaboration & growth  
+
+📩 Reach me anytime: **m.arsalaan07@gmail.com**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+Python | C | HTML5 | CSS3  
+
+**Tools & Technologies:**  
+Git | GitHub | Power BI | VS Code  
+
+---
+
+## 📈 Goals
+
+- Become an AI/ML Expert 🤖  
+- Build impactful real-world projects 🚀  
+- Contribute to open-source 🌍  
+- Continuous skill development 📚  
+
+---
+
+⭐ *“Code. Learn. Build. Repeat.”*
